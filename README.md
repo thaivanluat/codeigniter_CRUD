@@ -1,1 +1,1 @@
-# codeigniter_CRUD
+Simple CRUD application using CodeIgniter 3.1.11
